@@ -21,3 +21,15 @@ NOTE: All the files are in root main package and they all have main
  Question: [Maps](https://go.dev/tour/moretypes/23) \
  Answer: [playground link](https://go.dev/play/p/tAyIWQvrPHc) \
  File: [ex-slices.go](./ex-maps.go)
+
+## Exercise 4: Functions (Fibonacci with closure)
+
+ Question: [Maps](https://go.dev/tour/moretypes/26) \
+ Answer: [playground link](https://go.dev/play/p/OumRPj984Dx) \
+ File: [ex-slices.go](./ex-function-fib-closure.go)
+
+## Exercise 5: Stringers
+
+ Question: [Stringers](https://go.dev/tour/methods/18) \
+ Answer: [playground link](https://go.dev/play/p/nOSj-EyXuyf) \
+ File: [ex-slices.go](./ex-stringers.go)

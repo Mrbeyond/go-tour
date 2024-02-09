@@ -33,3 +33,9 @@ NOTE: All the files are in root main package and they all have main
  Question: [Stringers](https://go.dev/tour/methods/18) \
  Answer: [playground link](https://go.dev/play/p/nOSj-EyXuyf) \
  File: [ex-slices.go](./ex-stringers.go)
+
+## Exercise 6: Errors
+
+ Question: [Errors](https://go.dev/tour/methods/20) \
+ Answer: [playground link](https://go.dev/play/p/Nn4DEzVC3Bk) \
+ File: [ex-slices.go](./ex-errors.go)

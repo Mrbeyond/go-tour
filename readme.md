@@ -20,37 +20,41 @@ NOTE: All the files are in root main package and they all have main
 
  Question: [Maps](https://go.dev/tour/moretypes/23) \
  Answer: [playground link](https://go.dev/play/p/tAyIWQvrPHc) \
- File: [ex-slices.go](./ex-maps.go)
+ File: [ex-maps.go](./ex-maps.go)
 
 ## Exercise 4: Functions (Fibonacci with closure)
 
  Question: [Maps](https://go.dev/tour/moretypes/26) \
  Answer: [playground link](https://go.dev/play/p/OumRPj984Dx) \
- File: [ex-slices.go](./ex-function-fib-closure.go)
+ File: [ex-function-fib-closure.go](./ex-function-fib-closure.go)
 
 ## Exercise 5: Stringers
 
  Question: [Stringers](https://go.dev/tour/methods/18) \
  Answer: [playground link](https://go.dev/play/p/nOSj-EyXuyf) \
- File: [ex-slices.go](./ex-stringers.go)
+ File: [ex-stringers.go](./ex-stringers.go)
 
 ## Exercise 6: Errors
 
  Question: [Errors](https://go.dev/tour/methods/20) \
  Answer: [playground link](https://go.dev/play/p/Nn4DEzVC3Bk) \
- File: [ex-slices.go](./ex-errors.go)
+ File: [ex-errors.go](./ex-errors.go)
 
 ## Exercise 7: Readers
 
  Question: [Errors](https://go.dev/tour/methods/22) \
  Answer: [playground link](https://go.dev/play/p/MrzPd2kO8h_T) \
- File: [ex-slices.go](./ex-readers.go)
+ File: [ex-readers.go](./ex-readers.go)
 
 
-## Exercise 3: Rot13 Readers
+## Exercise 8: Rot13 Readers
 
  Question: [Errors](https://go.dev/tour/methods/23) \
  Answer: [playground link](https://go.dev/play/p/l_Zv7mMxmqR) \
- File: [ex-slices.go](./ex-rot13-reader.go)
+ File: [ex-rot13-reader.go](./ex-rot13-reader.go)
 
- 
+## Exercise 9: Images
+
+ Question: [Errors](https://go.dev/tour/methods/25) \
+ Answer: [playground link](https://go.dev/play/p/f7FP9eEyOfS) \
+ File: [ex-images.go](./ex-images.go)

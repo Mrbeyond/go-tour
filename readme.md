@@ -45,3 +45,12 @@ NOTE: All the files are in root main package and they all have main
  Question: [Errors](https://go.dev/tour/methods/22) \
  Answer: [playground link](https://go.dev/play/p/MrzPd2kO8h_T) \
  File: [ex-slices.go](./ex-readers.go)
+
+
+## Exercise 3: Rot13 Readers
+
+ Question: [Errors](https://go.dev/tour/methods/23) \
+ Answer: [playground link](https://go.dev/play/p/l_Zv7mMxmqR) \
+ File: [ex-slices.go](./ex-rot13-reader.go)
+
+ 

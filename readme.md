@@ -42,25 +42,25 @@ NOTE: All the files are in root main package and they all have main
 
 ## Exercise 7: Readers
 
- Question: [Errors](https://go.dev/tour/methods/22) \
+ Question: [Readers](https://go.dev/tour/methods/22) \
  Answer: [playground link](https://go.dev/play/p/MrzPd2kO8h_T) \
  File: [ex-readers.go](./ex-readers.go)
 
 
 ## Exercise 8: Rot13 Readers
 
- Question: [Errors](https://go.dev/tour/methods/23) \
+ Question: [Rot13 Readers](https://go.dev/tour/methods/23) \
  Answer: [playground link](https://go.dev/play/p/l_Zv7mMxmqR) \
  File: [ex-rot13-reader.go](./ex-rot13-reader.go)
 
 ## Exercise 9: Images
 
- Question: [Errors](https://go.dev/tour/methods/25) \
+ Question: [Images](https://go.dev/tour/methods/25) \
  Answer: [playground link](https://go.dev/play/p/f7FP9eEyOfS) \
  File: [ex-images.go](./ex-images.go)
 
 ## Exercise 10: Generic
 
- Question: [Errors](https://go.dev/tour/generic/2) \
+ Question: [Generic](https://go.dev/tour/generic/2) \
  Answer: [playground link](https://go.dev/play/p/8xqtr4NF_gj) \
  File: [ex-images.go](./ex-generic.go)

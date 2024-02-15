@@ -58,3 +58,9 @@ NOTE: All the files are in root main package and they all have main
  Question: [Errors](https://go.dev/tour/methods/25) \
  Answer: [playground link](https://go.dev/play/p/f7FP9eEyOfS) \
  File: [ex-images.go](./ex-images.go)
+
+## Exercise 10: Generic
+
+ Question: [Errors](https://go.dev/tour/generic/2) \
+ Answer: [playground link](https://go.dev/play/p/8xqtr4NF_gj) \
+ File: [ex-images.go](./ex-generic.go)

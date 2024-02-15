@@ -63,4 +63,4 @@ NOTE: All the files are in root main package and they all have main
 
  Question: [Generic](https://go.dev/tour/generic/2) \
  Answer: [playground link](https://go.dev/play/p/8xqtr4NF_gj) \
- File: [ex-images.go](./ex-generic.go)
+ File: [ex-generic.go](./ex-generic.go)

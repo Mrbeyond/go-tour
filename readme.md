@@ -24,7 +24,7 @@ NOTE: All the files are in root main package and they all have main
 
 ## Exercise 4: Functions (Fibonacci with closure)
 
- Question: [Maps](https://go.dev/tour/moretypes/26) \
+ Question: [Fibonacci with closure](https://go.dev/tour/moretypes/26) \
  Answer: [playground link](https://go.dev/play/p/OumRPj984Dx) \
  File: [ex-function-fib-closure.go](./ex-function-fib-closure.go)
 

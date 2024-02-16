@@ -72,3 +72,9 @@ NOTE: All the files are in root main package and they all have main
  File: [ex-trees.go](./ex-trees.go)
 
  
+ ## Exercise 12: Web Crawler
+
+ Question: [Web crawler](https://go.dev/tour/concurrency/10) \
+ Answer: [playground link](https://go.dev/play/p/fGe3VIYkJ6g) \
+ File: [ex-web-crawler.go](./ex-web-crawler.go)
+ 

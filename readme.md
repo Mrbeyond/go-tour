@@ -64,3 +64,11 @@ NOTE: All the files are in root main package and they all have main
  Question: [Generic](https://go.dev/tour/generic/2) \
  Answer: [playground link](https://go.dev/play/p/8xqtr4NF_gj) \
  File: [ex-generic.go](./ex-generic.go)
+ 
+ ## Exercise 11: Trees
+
+ Question: [Tree](https://go.dev/tour/concurrency/8) \
+ Answer: [playground link](https://go.dev/play/p/N0TBQr-DVi-) \
+ File: [ex-trees.go](./ex-trees.go)
+
+ 
